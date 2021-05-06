@@ -37,6 +37,10 @@ The objective of this project is to implement a scalable application using MERN 
 - [Frontend](https://github.com/Rukmini-Meda/WriterIo-frontend)
 - [Backend](https://github.com/Rukmini-Meda/WriterIo-backend)
 
+## Note
+
+- MONGO_URI should be replaced with your Mongodb Atlas string
+
 ## Contributors
 
 @Rukmini-Meda
