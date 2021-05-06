@@ -9,6 +9,10 @@ Writerio is a platform where users can write articles/blogs in their field of in
 
 The objective of this project is to implement a scalable application using MERN and AWS. A load balancer for two AWS EC2 deployed instances is created for improved scalability and performance.
 
+## Architecture
+
+![Drawing of cloud server architecture](https://github.com/swathi-vennela/WriterIo/blob/main/architecture.jpg)
+
 ## Functionalities
 
 - User registration  
