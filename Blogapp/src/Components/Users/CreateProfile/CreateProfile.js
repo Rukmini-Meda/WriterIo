@@ -34,6 +34,7 @@ export class CreatePost extends Component {
     componentDidMount() {
 
         let path = this.props.match.path
+         // eslint-disable-next-line
         let id = this.props.match.params.id
         if (path === "/profile/edit/:id") {
             this.setState(pre => ({

@@ -10,7 +10,9 @@ function ShowPost(props) {
 
     const [post, setpost] = useState(props)
     const [loading, setLoading] = useState(false)
+     // eslint-disable-next-line
     const [errmsg, setErrorMsg] = useState()
+     // eslint-disable-next-line
     const [errcode, setErrorCode] = useState()
     const history = useHistory()
     const pathname = history.location.pathname

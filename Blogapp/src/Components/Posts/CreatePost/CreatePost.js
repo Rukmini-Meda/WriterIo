@@ -36,7 +36,7 @@ export class CreatePost extends Component {
         let path = this.props.match.path
         let id = this.props.match.params.id
         const storedData = JSON.parse(localStorage.getItem('profileData'));
-        if (!storedData && path == "/create") {
+        if (!storedData && path === "/create") {
                 this.props.history.push("/createProfile")
         }
         if (path === "/edit/:id") {

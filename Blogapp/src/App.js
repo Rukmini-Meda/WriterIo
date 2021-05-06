@@ -133,8 +133,6 @@ const App = (props) => {
 
             </Switch>
           </Router>
-          <SocialMedia />
-          <Footer />
         </main>
         {loading}
 
