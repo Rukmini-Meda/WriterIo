@@ -39,7 +39,7 @@ The objective of this project is to implement a scalable application using MERN 
 
 ## Note
 
-- MONGO_URI should be replaced with your Mongodb Atlas string
+- MONGO_URI should be replaced with your Mongodb Atlas string in .env
 
 ## Contributors
 
