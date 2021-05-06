@@ -32,6 +32,11 @@ The objective of this project is to implement a scalable application using MERN 
 - Amazon Web Services
 - Git
 
+## Repositories used for deployment
+
+- [Frontend](https://github.com/Rukmini-Meda/WriterIo-frontend)
+- [Backend](https://github.com/Rukmini-Meda/WriterIo-backend)
+
 ## Contributors
 
 @Rukmini-Meda
