@@ -20,7 +20,6 @@ The objective of this project is to implement a scalable application using MERN 
 - Listing all the blog posts 
 - List view and detail view for blog posts 
 - Ead feature (Scalability through load balancing)
-- Create posts, profile 
 
 ## Tech Stack
 
