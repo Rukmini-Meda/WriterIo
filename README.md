@@ -11,7 +11,7 @@ The objective of this project is to implement a scalable application using MERN 
 
 ## Architecture
 
-![Drawing of cloud server architecture](https://github.com/swathi-vennela/WriterIo/blob/main/architecture.jpg)
+![Drawing of cloud server architecture](https://github.com/swathi-vennela/WriterIo/blob/main/EAD%20Architecture.jpg)
 
 ## Functionalities
 
